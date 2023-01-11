@@ -1,7 +1,7 @@
 # Hi there, I'm Tunahan Soysal
 ## Student, Developer, and Life Time Learner!!
 
-- 🔭 4rd year Software Engineering student
+- 🔭 4th year Software Engineering student
 - 🌱 I’m currently learning ASP.NET
 - 👯 I am looking for new projects to gain new competencies
 - 🥅 2023 Goals: Learn more about Web Projects
