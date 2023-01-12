@@ -15,7 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanSoysal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
