@@ -11,10 +11,8 @@
 - Experience in Blender3D projects
 - Experience in a .NET MVC project
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TunahanSoysal)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TunahanSoysal)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanSoysal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://raw.githubusercontent.com/TunahanSoysal/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/TunahanSoysal/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
