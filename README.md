@@ -11,7 +11,7 @@
 - Experience in Blender3D projects
 - Experience in a .NET MVC project
 
-![](https://raw.githubusercontent.com/TunahanSoysa/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/TunahanSoysal/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/TunahanSoysal/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/TunahanSoysal/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 
 ### Languages and Tools:
