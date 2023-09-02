@@ -1,5 +1,5 @@
 # Hi there, I'm Tunahan Soysal
-## Student, Developer, and Life Time Learner!!
+## Student, Developer, and Life Time Learner
 
 - 🔭 4th year Software Engineering student
 - 🌱 I’m currently learning ASP.NET
