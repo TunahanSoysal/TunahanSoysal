@@ -2,7 +2,7 @@
 ## Student, Developer, and Life Time Learner
 
 - 🔭 4th year Software Engineering student
-- 🌱 I’m currently learning ASP.NET
+- 🌱 I’m currently learning Spring Boot
 - 👯 I am looking for new projects to gain new competencies
 - 🥅 2023 Goals: Learn more about Web Projects
 - ⚡ Fun fact: I love fitness, cars, travel and robotics
