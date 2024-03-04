@@ -1,7 +1,7 @@
 # Hi there, I'm Tunahan Soysal
 ## Student, Developer, and Life Time Learner
 
-- 🔭 4th year Software Engineering student
+- 🔭 New Grad Software Engineer
 - 🌱 I’m currently learning Spring Boot
 - 👯 I am looking for new projects to gain new competencies
 - 🥅 2024 Goals: Learn more about Web Projects
